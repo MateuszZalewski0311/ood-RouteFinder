@@ -1,0 +1,13 @@
+D:\Programowanie\C#\Projects vs19\OOD_Task7\OOD_Task7\bin\Debug\netcoreapp3.1\BigTask2.exe
+D:\Programowanie\C#\Projects vs19\OOD_Task7\OOD_Task7\bin\Debug\netcoreapp3.1\BigTask2.deps.json
+D:\Programowanie\C#\Projects vs19\OOD_Task7\OOD_Task7\bin\Debug\netcoreapp3.1\BigTask2.runtimeconfig.json
+D:\Programowanie\C#\Projects vs19\OOD_Task7\OOD_Task7\bin\Debug\netcoreapp3.1\BigTask2.runtimeconfig.dev.json
+D:\Programowanie\C#\Projects vs19\OOD_Task7\OOD_Task7\bin\Debug\netcoreapp3.1\BigTask2.dll
+D:\Programowanie\C#\Projects vs19\OOD_Task7\OOD_Task7\bin\Debug\netcoreapp3.1\BigTask2.pdb
+D:\Programowanie\C#\Projects vs19\OOD_Task7\OOD_Task7\obj\Debug\netcoreapp3.1\BigTask2.csprojAssemblyReference.cache
+D:\Programowanie\C#\Projects vs19\OOD_Task7\OOD_Task7\obj\Debug\netcoreapp3.1\BigTask2.csproj.CoreCompileInputs.cache
+D:\Programowanie\C#\Projects vs19\OOD_Task7\OOD_Task7\obj\Debug\netcoreapp3.1\BigTask2.AssemblyInfoInputs.cache
+D:\Programowanie\C#\Projects vs19\OOD_Task7\OOD_Task7\obj\Debug\netcoreapp3.1\BigTask2.AssemblyInfo.cs
+D:\Programowanie\C#\Projects vs19\OOD_Task7\OOD_Task7\obj\Debug\netcoreapp3.1\BigTask2.dll
+D:\Programowanie\C#\Projects vs19\OOD_Task7\OOD_Task7\obj\Debug\netcoreapp3.1\BigTask2.pdb
+D:\Programowanie\C#\Projects vs19\OOD_Task7\OOD_Task7\obj\Debug\netcoreapp3.1\BigTask2.genruntimeconfig.cache
